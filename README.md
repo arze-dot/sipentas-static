@@ -1,0 +1,1 @@
+# sipentas-static
